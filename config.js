@@ -6,7 +6,7 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['8801650078236', '️Oᴡɴᴇʀ One', true]
+  ['', '️Oᴡɴᴇʀ One', true]
 ]
 global.mods = []
 global.prems = []
@@ -67,8 +67,8 @@ global.xteamkey = 'NezukoTachibana281207'
 */
 
 /*Number*/
-global.nomorbot = '8801650078236'
-global.nomorown = '8801650078236'
+global.nomorbot = ''
+global.nomorown = ''
 global.namebot = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
