@@ -6,16 +6,7 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['62895604670507', '️Oᴡɴᴇʀ One', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Two', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Three', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Four', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Five', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Six', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Seven', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Eight', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Nine', true],
-  ['62895604670507', '️Oᴡɴᴇʀ Teen', true]
+  ['8801650078236', '️Oᴡɴᴇʀ One', true]
 ]
 global.mods = []
 global.prems = []
@@ -76,8 +67,8 @@ global.xteamkey = 'NezukoTachibana281207'
 */
 
 /*Number*/
-global.nomorbot = '6282218416968'
-global.nomorown = '62895604670507'
+global.nomorbot = '8801650078236'
+global.nomorown = '8801650078236'
 global.namebot = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
